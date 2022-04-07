@@ -1,0 +1,6 @@
+framework module Pods_xcPods_Example {
+  umbrella header "Pods-xcPods_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
